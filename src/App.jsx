@@ -26,7 +26,7 @@ export default function App() {
       const response = await fetch(url);
 
       if (!response.ok) {
-        setError('City not found. Please try again.');
+        setError('City not found. Please try again later man.');
         setWeather(null);
         return;
       }
