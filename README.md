@@ -2,7 +2,7 @@
 
 A lightweight, modern, and production-ready Weather Forecast Dashboard built with **Vite** and **React** for a DevOps lab experiment. The project integrates an automated **GitHub Actions CI/CD pipeline** that runs lint checks, unit & integration tests, builds production bundles, uploads artifacts, and optionally deploys to GitHub Pages.
 
-here
+here uchsdiuvshfvh
 
 ## 🚀 Features
 
