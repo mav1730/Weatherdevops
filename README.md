@@ -5,7 +5,7 @@ A lightweight, modern, and production-ready Weather Forecast Dashboard built wit
 here 
 
 ## 🚀 Features
-
+3CRGYECGHXEWJ
 - **Framework**: Built with Vite and React (JavaScript, ES modules).
 - **Weather Data**: Queries the OpenWeatherMap Current Weather API (`units=metric`) with URL-encoded city names.
 - **Config & Security**: API key is managed via environment variables (`import.meta.env.VITE_WEATHER_API_KEY`) isolated in `src/config.js` to enable clean mocking and prevent secret leakage.
